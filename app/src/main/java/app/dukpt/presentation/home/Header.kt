@@ -43,7 +43,7 @@ fun Header() {
             Spacer(modifier = Modifier.height(12.dp))
 
             Text(
-                text = "Android DUKPT Explorer",
+                text = "Android DUKPT",
                 style = MaterialTheme.typography.headlineSmall,
                 fontWeight = FontWeight.Bold
             )
